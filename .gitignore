@@ -41,3 +41,4 @@ project.properties
 build/
 .gradle/
 
+/gradle/wrapper/*.zip
